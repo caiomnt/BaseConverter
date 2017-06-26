@@ -2,7 +2,7 @@
 
 # Converte o binario em decimal
 def bin2dec(binary):
-    return int(binary, 2)
+    return str(int(binary, 2))
 
 
 # Converte o binario em octal
