@@ -2,12 +2,10 @@
 Conversor bem simples de bases com python.
 
 - Como usar
-<pre>
-Usage:               
-
-        python bc.py  `<cmd>` `<arg>`
-
-        cmd:                      
+``` HTML
+Usage:
+        python bc.py <cmd> <arg>
+        <cmd>:                      
                 -b (binary)       
                 -d (decimal)      
                 -o (octal)        
@@ -16,7 +14,9 @@ Examples:
         python bc.py -b 1111      
         python bc.py -d 15        
         python bc.py -o 17        
-        python bc.py -h F         
+        python bc.py -h F
+```
+
 </pre>
 
 - Exemplo de execução
