@@ -3,8 +3,10 @@ Conversor bem simples de bases com python.
 
 - Como usar
 <pre>
-Usage:                
-        python bc.py <cmd> <arg>  
+Usage:               
+
+        python bc.py  `<cmd>` `<arg>`
+
         cmd:                      
                 -b (binary)       
                 -d (decimal)      
