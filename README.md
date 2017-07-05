@@ -27,4 +27,5 @@ python bc.py -h FF
 [+] Decimal: 255
 </pre>
 
-obs.: Dentro do python os números iniciados com (0, 0x e 0b) são visto como octal, hexadecimal e binário respectivamente.
+obs.: Os números possuem representações de bases, iniciados com (0, 0x e 0b)
+que são respectivamente octal, hexadecimal e binário.

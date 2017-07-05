@@ -29,7 +29,7 @@ def main():
         opts, args = getopt(argv[1:], "b:o:d:h:")
 
         # Restringindo a entrada de dados
-        if len(opts) >= 2 or len(args) > 1:
+        if len(opts) != 1 or len(args):
             usage()
         else:
             # Analisa os modos passados e executa as conversões devidas
