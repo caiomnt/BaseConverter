@@ -29,3 +29,11 @@ python bc.py -h FF
 
 obs.: Os números possuem representações de bases, iniciados com (0, 0x e 0b)
 que são respectivamente octal, hexadecimal e binário.
+
+
+TODO:
+- Input/Output de arquivos para realizar a conversão
+- criar portabilidade py2/py3
+- Permitir um output mais puro
+- Incluir conversão de ASCII
+- Incluir conversão com base64/32 e similares
